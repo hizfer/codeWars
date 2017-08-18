@@ -1,4 +1,4 @@
-@Author: Héctor Izquierdo Fernández (hizfer in GitHub)
+@Author: Héctor Izquierdo Fernández (hizfer)
 
 /*
 
